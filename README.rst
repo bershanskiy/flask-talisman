@@ -1,6 +1,14 @@
 Talisman: HTTP security headers for Flask
 =========================================
 
+NOTES
+
+EASIEST WAY TO TEST CHANGES
+1. INSTALL virtualenv
+2. Go to example app dir
+3. create virtaulenv and install packages
+4. Replace talisman in env with the new one
+
 |PyPI Version|
 
 Talisman is a small Flask extension that handles setting HTTP headers
